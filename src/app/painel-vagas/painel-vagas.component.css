@@ -1,0 +1,8 @@
+.cadastro {
+    display: flexbox;
+    flex-direction: row;
+    justify-content: center;
+    width: 1000px;
+    margin-left: 50px;
+
+}
